@@ -1,4 +1,5 @@
-module github.com/jito-labs/jito-go-rpc
+module github.com/hmstudio-labs/solana-jito-go-rpc
+
 
 go 1.24
 
